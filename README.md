@@ -1,6 +1,6 @@
 <div style="display: inline-block">
   <img align="center" alt="Dice-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
-  <strong>C_Basico</strong>
+  <strong>Python_Basico</strong>
 </div><br/>
 
 
